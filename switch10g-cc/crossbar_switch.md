@@ -4,10 +4,11 @@
 **日期：** 2026年1月22日  
 **模块：** Crossbar Switch（交叉开关交换矩阵）  
 **核心文件：** 
+<!-- 
 - `ip/manticore/rtl/crossbar.vhd` (170行)
 - `ip/manticore/rtl/cb_conf_gen.vhd` (78行)
 - `ip/manticore/rtl/mux.vhd` (146行)
-
+-->
 ---
 
 ## 1. 概述
