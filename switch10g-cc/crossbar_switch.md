@@ -1027,12 +1027,12 @@ Crossbar收到配置后立即执行，不区分优先级。
 ## 14. 参考资料
 
 ### 14.1 相关模块
-
+<!--
 - `manticore_top.vhd` - 交换机顶层，包含Crossbar实例化
 - `manticore_port.vhd` - 端口处理逻辑
 - `sch_sync.vhd` - 调度器同步模块
 - `mux.vhd` - 基础MUX单元
-
+-->
 ### 14.2 算法参考
 
 - **iSLIP算法**：调度器使用的高效仲裁算法
